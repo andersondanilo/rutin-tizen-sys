@@ -8,7 +8,7 @@ categories = ["external-ffi-bindings"]
 edition = "2018"
 license = "apache-2.0"
 readme = "README.md"
-repository = "https://github.com/andersondanilo/rutin-tizen-tys"
+repository = "https://github.com/andersondanilo/rutin-tizen-sys"
 homepage = "https://github.com/andersondanilo/rutin-tizen-sys"
 
 [build-dependencies]
